@@ -6,5 +6,5 @@ Everything in details is explained in the folder Calculator-GUI!
 <h3 align="left">Given the input of the year for the calendar: </h3>
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Calendar-Generator-GUI/blob/main/Calendar%20GUI%20part2.png">
 <h3 align="left">Here is the calendar for the user inputed year: </h3>
-<img align="center" alt="coding" width="400" src="">
+<img align="center" alt="coding" width="500" src="https://github.com/nrkkR/Python_Calendar-Generator-GUI/blob/main/Calendar%20GUI%20part3.png">
 <p align="left">Fusion is the future!<p></p>
